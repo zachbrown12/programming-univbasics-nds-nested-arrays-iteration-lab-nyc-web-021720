@@ -41,8 +41,7 @@ while row_index < src.count do
 end
   pairs
 end
-  
-end
+
 
 def total_even_pairs(src)
   # src will be an array of [ [number1, number2], ... [numberN, numberM] ]
